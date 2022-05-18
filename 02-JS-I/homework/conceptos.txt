@@ -1,0 +1,14 @@
+Variables: las variables son nombres, que representan un valor y se utiliza para almacenar 
+datos, que podemos utilizar en algun momento, para realizar operaciones.
+
+String: es un tipo de dato que podemos usar para representar texto
+
+Funciones (argumentos, return). las funciones son bloques de codigos que se pueden reutilizar y
+ realizan procedimientos, los cuales pueden recibir valores ( argumentos) y a su vez retornadr 
+ valores(return)
+
+Declaraciones if: las declaraciones if son un bloque de codigo, el cual puede evaluar una condicion y 
+devolver un valor, de acuerdo a la condicion que elegimos.
+
+Valores booleanos (true, false) : los valores boleanos son tipos de datos, los cuales solo pueden adquirir 
+unos de estos dos valores, True (verdadero) o False (falso).
